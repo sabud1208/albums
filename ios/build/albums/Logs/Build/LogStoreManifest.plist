@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>A8734DD9-5875-4317-8C36-16566726F857</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A8734DD9-5875-4317-8C36-16566726F857.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>albums project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>albums</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project albums with scheme albums and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>579376514.92499697</real>
+			<key>timeStoppedRecording</key>
+			<real>579376518.27373505</real>
+			<key>title</key>
+			<string>Building project albums with scheme albums and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A8734DD9-5875-4317-8C36-16566726F857</string>
+		</dict>
+		<key>B280910C-8697-4207-AA9B-2FD2A7949FB2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B280910C-8697-4207-AA9B-2FD2A7949FB2.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>albums project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>albums</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project albums with scheme albums and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>579319745.11320496</real>
+			<key>timeStoppedRecording</key>
+			<real>579319747.13878703</real>
+			<key>title</key>
+			<string>Building project albums with scheme albums and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>B280910C-8697-4207-AA9B-2FD2A7949FB2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
